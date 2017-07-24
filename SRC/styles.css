@@ -1,0 +1,19 @@
+body {
+            background-color: lightblue;
+            color: #528D37;
+            font-size: 20px;
+}
+
+p {
+  background-color: red;
+}
+
+.special {
+  background-color: lightgray;
+}
+
+#tag-0 {
+  background-color: orange;
+}
+
+        }
